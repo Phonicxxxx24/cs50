@@ -1,0 +1,13 @@
+def main():
+    plate = input("plate: ")
+    if validation(plate):
+        pass
+    pass
+def validation(s):
+    
+    
+    
+    
+    pass
+
+take input define one variable that uses slice to check first two inputs is alphabet that is s[0:2] but to check its alphabet or not should I make list or hoe to validate that it is alphabet if this solved then move on to next problems like numbers and no zero and other problems
